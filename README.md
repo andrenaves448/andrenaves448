@@ -10,8 +10,8 @@ Sou um entusiasta da tecnologia e desenvolvedor em formação, apaixonado por cr
 
 ## 💡 Projetos em Destaque
 
-* **[Gerenciador de Tarefas Pomodoro](https://github.com/andreaves448/Gerenciador-Pomodoro)**: Um aplicativo desktop para gerenciar tarefas e produtividade usando a técnica Pomodoro.
+* **[Gerenciador de Tarefas Pomodoro](https://github.com/andrenaves448/Gerenciador-Pomodoro/tree/main)**: Um aplicativo desktop para gerenciar tarefas e produtividade usando a técnica Pomodoro.
 
 ## 🤝 Vamos nos conectar!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_USERNAME/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrenaves448@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrenavescavalcante/)
