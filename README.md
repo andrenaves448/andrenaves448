@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o André Naves
 
-Sou um entusiasta da tecnologia e desenvolvedor em formação, apaixonado por criar soluções e aprender coisas novas! Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de aplicações desktop e explorar o mundo do Python e tambem em analise de dados.
+Sou um entusiasta da tecnologia e desenvolvedor em formação, apaixonado por criar soluções e aprender coisas novas! Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de aplicações desktop e explorar o mundo do .NET e tambem em analise de dados.
 
 
 ## 🌱 O que estou aprendendo
