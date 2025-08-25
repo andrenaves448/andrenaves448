@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia e desenvolvedor em formação, apaixonado por cr
 ## 🌱 O que estou aprendendo
 
 * Engenharia de Software.
-* Alura (Programação).
+* Alura (C#).
 
 
 ## 💡 Projetos em Destaque
